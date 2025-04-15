@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 body{
     font-family: sans-serif;
     background-color: rgb(255, 255, 255);
@@ -59,6 +60,76 @@ div{
     border-left: 3px solid rgb(253, 48, 48);
 }
 .license{
+    font-size: 9px;
+    text-align: justify;
+    color: rgb(120, 120, 120);
+}
+.item-title{
+    font-weight: bold;
+}
+.item-image{
+    height: 200px;
+}
+.parts-pay{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.parts-pay img{
+    height: 24px;
+}
+.price{
+    border: 1px solid rgb(194,194,194);
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: flex;
+}
+.price div:first-child{
+    width: 100px;
+    font-size: 20px;
+}
+.price div:first-child span{
+    text-decoration-line: line-through;
+}
+.prise div:first-child sup{
+    font-size: 12px;
+}
+.price div:last-child{
+    font-size: 24px;
+}
+.price div:last-child sup{
+    font-size: 14px;
+}
+.bonus{
+    background: rgb(253, 48, 48);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.bonus div:first-child{
+    width: 100px;
+    font-size: 14px;
+}
+.bonus div:last-child{
+    font-size: 24px;
+}
+.bonus div:last-child sup{
+font-size: 14px;
+}
+.contacts p {
+    margin: 3px;
+}
+.contacts p:first-child {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.contacts p:last-child{
+    border-left: 3px solid rgb(253, 48, 48);
+}
+.info {
     font-size: 9px;
     text-align: justify;
     color: rgb(120, 120, 120);
