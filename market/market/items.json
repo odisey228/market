@@ -1,0 +1,56 @@
+[
+    {
+    "title": "Мотокоса 43",
+    "photo": "1.png",
+    "paw": 6,
+    "pb": 8,
+    "standart_price": 5499,
+    "price": 4497,
+    "bonus_price": "4395"
+    },
+    {
+    "title": "Тример 110",
+    "photo": "2.png",
+    "paw": "4",
+    "pb": "5",
+    "standart_price": "2199",
+    "price": "1799",
+    "bonus_price": "1999"
+    },
+    {
+    "title": "Газонокосарка 32",
+    "photo": "3.png",
+    "paw": "7",
+    "pb": "10",
+    "standart_price": "6799",
+    "price": "5599",
+    "bonus_price": "5450"
+    },
+    {
+    "title": "Оприскувач 12",
+    "photo": "4.png",
+    "paw": "5",
+    "pb": "7",
+    "standart_price": "3299",
+    "price": "2699",
+    "bonus_price": "2499"
+    },
+    {
+    "title": "Газонокосарка 430",
+    "photo": "5.png",
+    "paw": "9",
+    "pb": "12",
+    "standart_price": "9999",
+    "price": "8199",
+    "bonus_price": "7999"
+    },
+    {
+    "title": "Електричний тример",
+    "photo": "6.png",
+    "paw": "3",
+    "pb": "4",
+    "standart_price": "1599",
+    "price": "1299",
+    "bonus_price": "1199"
+    }
+]

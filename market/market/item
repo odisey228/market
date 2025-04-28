@@ -1,0 +1,18 @@
+<div class="item">
+  <div class="item-title">Мотокоса 43</div>
+
+  <div class="item-image">
+    <img src="img/1.png" alt="Мотокоса 43" class="motokosa-img" />
+  </div>
+
+  <div class="parts-pay">
+    <div><img src="img/mono-lapka.png" alt="" />6</div>
+    <div><img src="img/pb.png" alt="" />8</div>
+  </div>
+
+  <div class="price">
+    <div><span>5499</span><sup>грн</sup></div>
+    <div><span>4497</span><sup>грн</sup></div>
+    
+    <div>ціна за купоном<span>4395</span><sup>грн</sup></div>
+  </div>
